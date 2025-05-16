@@ -1,0 +1,18 @@
+# Ignore arquivos temporários e de backup
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Diretórios de cache
+.cache/
+tmp/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Outros
+.vscode/
